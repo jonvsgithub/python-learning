@@ -46,3 +46,9 @@ txt = "Jonathan is learning a new programming language called Python"
 if "Python" in txt:
     print("Yes, 'Python' is present.")
 
+txt = "Coding is good"
+print("python" not in txt)
+
+txt = "PK is the Great Present in Africa"
+if "Kigali" not in txt:
+    print("No, 'Kigali' is NOT present")
