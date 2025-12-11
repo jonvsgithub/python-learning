@@ -44,4 +44,26 @@ tropical = ["mango", "pineapple", "papaya"]
 thislist.extend(tropical)
 print(thislist)
 
+#Remove List
 
+thislist = ["apple", "banana", "cherry"]
+thislist.remove("banana")
+print(thislist)
+
+#Remove specific Item
+
+thislist = ["apple", "banana", "cherry"]
+thislist.pop(1)
+print(thislist)
+
+#using del keyword to remove
+
+thislist = ["apple", "banana", "cherry"]
+del thislist[0]
+print(thislist)
+
+#clearing the List
+
+thislist = ["apple", "banana", "cherry"]
+thislist.clear()
+print(thislist)
