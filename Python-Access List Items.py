@@ -56,13 +56,12 @@ thislist = ["apple", "banana", "cherry"]
 thislist.pop(1)
 print(thislist)
 
-#using del keyword to remove
+
 
 thislist = ["apple", "banana", "cherry"]
 del thislist[0]
 print(thislist)
 
-#clearing the List
 
 thislist = ["apple", "banana", "cherry"]
 thislist.clear()
