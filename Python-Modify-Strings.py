@@ -1,5 +1,5 @@
-j = "jonathan"
+j = "jondayizeye"
 print(j.upper())
 
-n = "Ndayizeyr"
+n = "Ndayizeye"
 print(n.replace("r","e"))
